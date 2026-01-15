@@ -2,6 +2,7 @@
 #include "inherit2.h"
 #include "partTimeEmployee.h"
 using namespace std;
+
 int main()
 {
   personType newPerson;
