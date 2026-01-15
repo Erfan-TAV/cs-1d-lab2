@@ -4,4 +4,6 @@ project(cs_1d_lab2)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cs_1d_lab2
-        main.cpp)
+        main.cpp
+        hello1Function.cpp
+        hello2Function.cpp)
